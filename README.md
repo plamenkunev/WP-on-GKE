@@ -5,9 +5,13 @@ Follow this tutorial at https://cloud.google.com/kubernetes-engine/docs/tutorial
 OBJECTIVES
 
 Create a GKE cluster.
+
 Create a PV and a PVC backed by Persistent Disk.
+
 Create a Cloud SQL for MySQL instance.
+
 Deploy WordPress.
+
 Set up WordPress.
 
 
